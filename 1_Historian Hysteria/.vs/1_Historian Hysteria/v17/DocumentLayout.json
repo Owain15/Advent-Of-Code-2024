@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ojdav\\visual studio files\\Advent Of Code 2024\\Advent-Of-Code-2024\\1_Historian Hysteria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00A60722-1E08-4F0A-A4C6-B47EFCB0BC16}|1_Historian Hysteria.csproj|c:\\users\\ojdav\\visual studio files\\advent of code 2024\\advent-of-code-2024\\1_historian hysteria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A60722-1E08-4F0A-A4C6-B47EFCB0BC16}|1_Historian Hysteria.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A60722-1E08-4F0A-A4C6-B47EFCB0BC16}|1_Historian Hysteria.csproj|c:\\users\\ojdav\\visual studio files\\advent of code 2024\\advent-of-code-2024\\1_historian hysteria\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{00A60722-1E08-4F0A-A4C6-B47EFCB0BC16}|1_Historian Hysteria.csproj|solutionrelative:readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ojdav\\visual studio files\\Advent Of Code 2024\\Advent-Of-Code-2024\\1_Historian Hysteria\\ReadMe.txt",
+              "RelativeDocumentMoniker": "ReadMe.txt",
+              "ToolTip": "C:\\Users\\ojdav\\visual studio files\\Advent Of Code 2024\\Advent-Of-Code-2024\\1_Historian Hysteria\\ReadMe.txt",
+              "RelativeToolTip": "ReadMe.txt",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-01T20:00:34.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ojdav\\visual studio files\\Advent Of Code 2024\\Advent-Of-Code-2024\\1_Historian Hysteria\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ojdav\\visual studio files\\Advent Of Code 2024\\Advent-Of-Code-2024\\1_Historian Hysteria\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAowMkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:58:54.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

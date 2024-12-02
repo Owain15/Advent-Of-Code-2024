@@ -1,0 +1,15 @@
+C:\Users\ojdav\visual studio files\Advent Of Code 2024\Advent-Of-Code-2024\1_Historian Hysteria\bin\Debug\net8.0\1_Historian Hysteria.exe
+C:\Users\ojdav\visual studio files\Advent Of Code 2024\Advent-Of-Code-2024\1_Historian Hysteria\bin\Debug\net8.0\1_Historian Hysteria.deps.json
+C:\Users\ojdav\visual studio files\Advent Of Code 2024\Advent-Of-Code-2024\1_Historian Hysteria\bin\Debug\net8.0\1_Historian Hysteria.runtimeconfig.json
+C:\Users\ojdav\visual studio files\Advent Of Code 2024\Advent-Of-Code-2024\1_Historian Hysteria\bin\Debug\net8.0\1_Historian Hysteria.dll
+C:\Users\ojdav\visual studio files\Advent Of Code 2024\Advent-Of-Code-2024\1_Historian Hysteria\bin\Debug\net8.0\1_Historian Hysteria.pdb
+C:\Users\ojdav\visual studio files\Advent Of Code 2024\Advent-Of-Code-2024\1_Historian Hysteria\obj\Debug\net8.0\1_Historian Hysteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ojdav\visual studio files\Advent Of Code 2024\Advent-Of-Code-2024\1_Historian Hysteria\obj\Debug\net8.0\1_Historian Hysteria.AssemblyInfoInputs.cache
+C:\Users\ojdav\visual studio files\Advent Of Code 2024\Advent-Of-Code-2024\1_Historian Hysteria\obj\Debug\net8.0\1_Historian Hysteria.AssemblyInfo.cs
+C:\Users\ojdav\visual studio files\Advent Of Code 2024\Advent-Of-Code-2024\1_Historian Hysteria\obj\Debug\net8.0\1_Historian Hysteria.csproj.CoreCompileInputs.cache
+C:\Users\ojdav\visual studio files\Advent Of Code 2024\Advent-Of-Code-2024\1_Historian Hysteria\obj\Debug\net8.0\1_Historian Hysteria.sourcelink.json
+C:\Users\ojdav\visual studio files\Advent Of Code 2024\Advent-Of-Code-2024\1_Historian Hysteria\obj\Debug\net8.0\1_Historian Hysteria.dll
+C:\Users\ojdav\visual studio files\Advent Of Code 2024\Advent-Of-Code-2024\1_Historian Hysteria\obj\Debug\net8.0\refint\1_Historian Hysteria.dll
+C:\Users\ojdav\visual studio files\Advent Of Code 2024\Advent-Of-Code-2024\1_Historian Hysteria\obj\Debug\net8.0\1_Historian Hysteria.pdb
+C:\Users\ojdav\visual studio files\Advent Of Code 2024\Advent-Of-Code-2024\1_Historian Hysteria\obj\Debug\net8.0\1_Historian Hysteria.genruntimeconfig.cache
+C:\Users\ojdav\visual studio files\Advent Of Code 2024\Advent-Of-Code-2024\1_Historian Hysteria\obj\Debug\net8.0\ref\1_Historian Hysteria.dll
