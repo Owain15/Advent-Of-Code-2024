@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1_Historian Hysteria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14ee00810a2ef7d9f5eaf01803c3cea79c7c31a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9208195f83beaa7ff9065c6eff85f4bf0562f58")]
 [assembly: System.Reflection.AssemblyProductAttribute("1_Historian Hysteria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1_Historian Hysteria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

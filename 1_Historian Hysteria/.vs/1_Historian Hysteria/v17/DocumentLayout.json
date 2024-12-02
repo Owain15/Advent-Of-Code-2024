@@ -46,8 +46,7 @@
               "RelativeToolTip": "ReadMe.txt",
               "ViewState": "AgIAACIAAAAAAAAAAAAqwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-01T20:00:34.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T20:00:34.84Z"
             },
             {
               "$type": "Document",
@@ -57,7 +56,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ojdav\\visual studio files\\Advent Of Code 2024\\Advent-Of-Code-2024\\1_Historian Hysteria\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAKsAAAAAAAAAAAAowMkAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T19:58:54.9Z",
               "EditorCaption": ""
