@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C435172A-AA46-41CA-86BF-91598E581EC5}"
 	ProjectSection(SolutionItems) = preProject
 		InputData.txt = InputData.txt
+		TestInput2.txt = TestInput2.txt
 	EndProjectSection
 EndProject
 Global
